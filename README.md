@@ -3,7 +3,7 @@ beta builds of [rustic](https://github.com/rustic-rs/rustic)
 
 ## Linux
 - [x86_64 / gnu](https://github.com/rustic-rs/rustic-beta/raw/main/beta/rustic-main-x86_64-unknown-linux-gnu.tar.gz)
-- [x86_64 / musl (statically compiled)](https://github.com/rustic-rs/rustic-beta/raw/main/beta/rustic-main-x86_64-unknown-linux-musl.tar.gz)
+- [x86_64 / musl (statically linked)](https://github.com/rustic-rs/rustic-beta/raw/main/beta/rustic-main-x86_64-unknown-linux-musl.tar.gz)
 - [i686 / gnu](https://github.com/rustic-rs/rustic-beta/raw/main/beta/rustic-main-i686-unknown-linux-gnu.tar.gz)
 - [aarch64 / gnu](https://github.com/rustic-rs/rustic-beta/raw/main/beta/rustic-main-aarch64-unknown-linux-gnu.tar.gz)
 - [armv7 / raspberry pi](https://github.com/rustic-rs/rustic-beta/blob/main/beta/rustic-main-armv7-unknown-linux-gnueabihf.tar.gz)
